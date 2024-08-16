@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/leetcode/46. Permutations.js"
+            "program": "${file}"
         }
     ]
 }
