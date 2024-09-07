@@ -26,9 +26,7 @@ var minWindow = function (s, t) {
     let window = 0
     let min = Infinity
     let start,end=0
-
     
-
     while (r<=s.length) {
         if (needCount < haveCount) {
             if (have[s[r]]) {
